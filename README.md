@@ -51,7 +51,7 @@ python main.py
 ---
 
 ## 🖼 Application Screenshot
-![Application Screenshot]()
+![Application Screenshot](Student-Details-GUI-Tkinter/screenshot.png)
 
 ---
 
